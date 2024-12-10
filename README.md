@@ -1,6 +1,6 @@
 # JSSP Instance in Taillard Form
 
-This repository contains a Job Shop Scheduling Problem (JSSP) instance described in Taillard format. The format includes the number of jobs and machines, followed by a detailed representation of the operations for each job, including recirculation. These instances are created from anonymised real-world data.
+This repository contains Job Shop Scheduling Problem (JSSP) instances described in Taillard format. The format includes the number of jobs and machines, followed by a detailed representation of the operations for each job. These instances are created from anonymised real-world data.
 
 ## Format Details
 
