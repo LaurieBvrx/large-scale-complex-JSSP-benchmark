@@ -28,5 +28,5 @@ This repository contains Job Shop Scheduling Problem (JSSP) instances described 
 
 ## Acknowledgements
 
-These instances were generated from anonymised real-world data provided by [Mockel](https://www.mockel-precision.be/)
+These instances were generated from anonymised real-world data provided by [Mockel](https://www.mockel-precision.be/).
 We would like to thank Mockel for making their data available, which enabled the creation of these twenty Job Shop Scheduling Problem instances.
