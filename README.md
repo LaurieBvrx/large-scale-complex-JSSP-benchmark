@@ -25,3 +25,8 @@ This repository contains Job Shop Scheduling Problem (JSSP) instances described 
 
   **Recirculation Support**: The format allows jobs to have multiple operations on the same machine.
   **Flexible Number of Operations**: Jobs may have a variable number of operations. The instances do not have a rectangular shape.
+
+## Acknowledgements
+
+These instances were generated from anonymised real-world data provided by [Mockel](https://www.mockel-precision.be/)
+We would like to thank Mockel for making their data available, which enabled the creation of these twenty Job Shop Scheduling Problem instances.
